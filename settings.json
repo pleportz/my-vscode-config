@@ -1,0 +1,13 @@
+{
+  "telemetry.enableTelemetry": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.codeLens.enabled": false,
+  "window.zoomLevel": 0,
+  "files.insertFinalNewline": true,
+  "files.associations": {
+    "Fastfile": "ruby"
+  },
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on"
+}
